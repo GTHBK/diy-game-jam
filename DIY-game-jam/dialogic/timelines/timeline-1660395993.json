@@ -1,0 +1,117 @@
+{
+	"events": [
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "(某處的森林深處)"
+		},
+		{
+			"character": "character-1660395882.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "啊..累死了，這下今天的農活也結束了。"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "曾經稱霸一方的魔王，如今正在森林深處的小屋開闢了一片農田，過著逍遙的退休生活。"
+		},
+		{
+			"character": "character-1660395882.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "雖然征服天下也是挺有意思的，但果然還是悠閒種田的生活自在多了。尼古拉斯，回家了！"
+		},
+		{
+			"character": "character-1660396446.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "「汪！」"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "一隻獵犬叼著一隻肥美的雉雞跑向沙布身邊，多麼溫馨的一個畫面啊，老者與獵犬過著躬耕狩獵的隱居生活，如果無視尼古拉斯在本應是犬類後腳的地方長出了一大堆黏滑的觸手這點的話。"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "魔王大人！"
+		},
+		{
+			"character": "character-1660395882.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "（又來了嗎？）"
+		},
+		{
+			"character": "character-1660395882.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "米爾戈我已經說過我不是魔王了，我決定要退休了，從今以後你們要繼續征戰也好，要回家鄉去也好全都不關我的事，現在的我只是在這裡種田的老頭而已。"
+		},
+		{
+			"character": "character-1660408074.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "可是沒有了您的領導，我們已經被人類逼到只剩下魔王城周遭的一小塊領土了，先王的遺願又該如何是好？"
+		},
+		{
+			"character": "character-1660395882.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "那又關我什麼事？我已經不是魔王了，我只想安靜地在這裡種田。今天我還得料理剛抓來的雞肉，忙得很，請你回去吧。"
+		},
+		{
+			"character": "character-1660408074.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "可是..."
+		},
+		{
+			"character": "character-1660395882.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "同樣的話不要再讓我重複！"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "魔王憤怒地說完後，右手一揮，地上憑空長出了好幾隻觸手，抓住了米爾戈。"
+		},
+		{
+			"character": "character-1660408074.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "魔王大人！！求..."
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "話還沒說完，觸手就將米爾戈丟出了森林。\n吃了閉門羹的米爾戈，只好一拐一拐的離開。"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "...\n......"
+		},
+		{
+			"character": "",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "人類王宮—王座之間"
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.4.4",
+		"file": "timeline-1660395993.json",
+		"name": "opening"
+	}
+}

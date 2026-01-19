@@ -1,0 +1,21 @@
+{
+	"color": "#ffffffff",
+	"description": "曾經稱霸一方的魔王，如今正在森林深處的小屋開闢了一片農田，過著逍遙的退休生活",
+	"display_name": "沙布",
+	"display_name_bool": true,
+	"id": "character-1660395882.json",
+	"mirror_portraits": false,
+	"name": "shub",
+	"nickname": "",
+	"nickname_bool": false,
+	"offset_x": 0,
+	"offset_y": 0,
+	"portraits": [
+		{
+			"name": "Default",
+			"path": ""
+		}
+	],
+	"scale": 100,
+	"theme": ""
+}
